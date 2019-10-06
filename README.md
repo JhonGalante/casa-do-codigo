@@ -1,2 +1,2 @@
-# casa-do-codigo
-Projeto do curso de ASP.NET Core da Alura
+# Casa do Código
+Projeto MVC para estudo do curso de ASP.NET Core da Alura.
